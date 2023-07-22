@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="age_range_prompt">Select Age Range</string>
+</resources>

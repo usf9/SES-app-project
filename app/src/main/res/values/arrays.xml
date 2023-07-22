@@ -1,0 +1,14 @@
+<resources>
+    <string-array name="age_ranges">
+        <item>0-9</item>
+        <item>10-19</item>
+        <item>20-29</item>
+        <item>30-39</item>
+        <item>40-49</item>
+        <item>50-59</item>
+        <item>60-69</item>
+        <item>70-79</item>
+        <item>80-89</item>
+        <item>90+</item>
+    </string-array>
+</resources>
