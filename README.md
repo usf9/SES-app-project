@@ -30,8 +30,21 @@ To make the most of the app, ensure that you have a stable internet connection a
 
 The Smart Exhibition System mobile app is compatible with both Android and iOS devices. It requires a stable internet connection to function properly.
 
+
+
 ## Support
 
 If you have any questions or issues with the Smart Exhibition System mobile app, please contact our support team through the in-app support feature or by emailing yousefabdallah9999@gmail.com. am an available 24/7 to assist you.
 
 Thank you for using the Smart Exhibition System mobile app. We hope you have a great experience at the exhibition!
+
+
+
+
+
+
+
+
+
+https://github.com/usf9/SES-app-project/assets/119720950/3d09989e-fd86-4d0e-a530-39690f4ec66a
+
