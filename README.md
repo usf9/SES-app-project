@@ -32,6 +32,6 @@ The Smart Exhibition System mobile app is compatible with both Android and iOS d
 
 ## Support
 
-If you have any questions or issues with the Smart Exhibition System mobile app, please contact our support team through the in-app support feature or by emailing support@smartexhibition.com. We are available 24/7 to assist you.
+If you have any questions or issues with the Smart Exhibition System mobile app, please contact our support team through the in-app support feature or by emailing yousefabdallah9999@gmail.com. am an available 24/7 to assist you.
 
 Thank you for using the Smart Exhibition System mobile app. We hope you have a great experience at the exhibition!
