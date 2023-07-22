@@ -23,7 +23,7 @@ The Smart Exhibition System mobile app is designed to enhance your experience at
 
 The Smart Exhibition System mobile app will be available soon for download on the Google Play Store . Once the app is available, simply download it and create an account to start browsing through the list of exhibits and accessing their multimedia content. You can also use the interactive tools provided by the app to engage with the exhibit and other visitors.
 
-To make the most of the app, ensure that you have a stable internet connection and that your device is compatible with the app. The app is compatible with both Android and iOS devices.
+To make the most of the app, ensure that you have a stable internet connection and that your device is compatible with the app. 
 
 
 ## Compatibility
